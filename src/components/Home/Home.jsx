@@ -31,7 +31,7 @@ const Home = () => {
                 key={index}
                 initial={{ opacity: 0, y: 10 }}
                 animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.4, delay: index * 0.1 }}
+                transition={{ duration: 0.4, delay: index * 0.05 }}
                 className="title-letter"
               >
                 {letter === " " ? "\u00A0" : letter}
