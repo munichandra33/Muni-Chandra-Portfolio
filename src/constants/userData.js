@@ -1,4 +1,3 @@
-import TasteTroopImg from "../assets/tastetroop.jpeg";
 import ReactIcon from "../assets/React.svg";
 import ReduxIcon from "../assets/Redux.svg";
 import JavaScriptIcon from "../assets/JavaScript.svg";
