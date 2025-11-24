@@ -78,7 +78,7 @@ export const userData = {
         id: 7,
         name: "Redux",
         type: "State Management",
-        image: ReduxIcon, // placeholder
+        image: ReduxIcon,
       },
       {
         id: 8,
