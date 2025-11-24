@@ -21,7 +21,7 @@ import PortfolioImg from "../assets/Portfolio.webp";
 
 export const userData = {
   name: "Muni Chandra Chimidi",
-  location: "India💌",
+  location: "India",
   role: "Frontend Developer",
   role_desc:
     "Hi, I'm Muni Chandra, a Frontend Developer with hands-on experience in React.js, JavaScript (ES6+), Tailwind CSS, Bootstrap, and state management (Redux, Context API). I build responsive, user-centric web applications and bring additional SEO and digital marketing experience for business-focused development.",
