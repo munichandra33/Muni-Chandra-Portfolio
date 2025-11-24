@@ -162,7 +162,7 @@ export const userData = {
         degree: "B.Tech in Computer Science",
         institution: "Audisankara Institute of Technology, Gudur",
         year: "Aug 2018 - Feb 2023",
-        image: AudisankaraImg, // placeholder logo
+        image: AudisankaraImg,
       },
     ],
   },
