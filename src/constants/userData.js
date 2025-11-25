@@ -177,8 +177,8 @@ export const userData = {
           "A modern, responsive Nike-themed landing page built with React and Tailwind CSS, focused on clean UI, smooth sections, and a strong brand-first layout.",
         techStack: ["JavaScript", "React", "Tailwind CSS", "Git", "GitHub"],
         image: NikeImg, // placeholder image
-        github: "", // TODO: add Nike landing page GitHub repo link
-        website: "", // TODO: add Nike landing page live site link
+        github: "https://github.com/munichandra33/Nike-Landing-page",
+        website: "https://munichandra33.github.io/Nike-Landing-page/",
       },
       {
         id: 2,
