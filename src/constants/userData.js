@@ -17,6 +17,7 @@ import NikeImg from "../assets/nike.webp";
 import HoobankImg from "../assets/hoobank.webp";
 import NavraImg from "../assets/navra.webp";
 import PortfolioImg from "../assets/Portfolio.webp";
+import WeatherAppImg from "../assets/WeatherAppImg.webp";
 
 export const userData = {
   name: "Muni Chandra Chimidi",
@@ -208,6 +209,23 @@ export const userData = {
         image: PortfolioImg, // TODO: replace with your actual image import
         github: "https://github.com/munichandra33/My-Portfolio-Website",
         website: "https://munichandra33.github.io/My-Portfolio-Website/",
+      },
+      {
+        id: 5,
+        name: "Weather App (OpenWeather API)",
+        description:
+          "A simple and responsive weather application that fetches real-time weather data using the OpenWeather API. Users can search for any city and instantly view temperature, humidity, and weather conditions with a clean UI.",
+        techStack: [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "OpenWeather API",
+          "Git",
+          "GitHub",
+        ],
+        image: WeatherAppImg, // TODO: replace with your actual image import
+        github: "https://github.com/munichandra33/Weather-App",
+        website: "https://munichandra33.github.io/Weather-App/",
       },
     ],
   },
