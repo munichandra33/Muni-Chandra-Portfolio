@@ -18,6 +18,9 @@ import HoobankImg from "../assets/hoobank.webp";
 import NavraImg from "../assets/navra.webp";
 import PortfolioImg from "../assets/Portfolio.webp";
 import WeatherAppImg from "../assets/WeatherAppImg.webp";
+import BusinessmavericksImg from "../assets/BusinessmavericksImg.webp";
+import LifeofalphaImg from "../assets/LifeofalphaImg.webp";
+
 
 export const userData = {
   name: "Muni Chandra Chimidi",
@@ -26,7 +29,7 @@ export const userData = {
   role_desc:
     "Hi, I'm Muni Chandra, a Frontend Developer with hands-on experience in React.js, JavaScript (ES6+), Tailwind CSS, Bootstrap, and state management (Redux, Context API). I build responsive, user-centric web applications and bring additional SEO and digital marketing experience for business-focused development.",
   socials: {
-    linkedin: "https://www.linkedin.com/in/munichandrach/", 
+    linkedin: "https://www.linkedin.com/in/munichandrach/",
     github: "https://github.com/munichandra33",
     email: "munichandrach3@gmail.com",
   },
@@ -105,13 +108,13 @@ export const userData = {
         id: 11,
         name: "WordPress",
         type: "CMS / Web Platform",
-        image: WordpressIcon, 
+        image: WordpressIcon,
       },
       {
         id: 12,
         name: "SEO",
         type: "Search Engine Optimization",
-        image: SEOIcon, 
+        image: SEOIcon,
       },
     ],
   },
@@ -126,7 +129,7 @@ export const userData = {
         location: "Remote / India",
         year: "Feb 2024 - Present",
         role: "Built scalable React components for sales portals, optimized landing pages with HTML, CSS, and Tailwind to improve speed and conversions, fixed UI/UX issues across devices, and increased organic leads and ROI through SEO and targeted ads.",
-        image: TKAImg, 
+        image: TKAImg,
       },
       {
         id: 2,
@@ -135,7 +138,7 @@ export const userData = {
         location: "Remote",
         year: "Sep 2023 - Dec 2023",
         role: "Built responsive web pages with HTML5, CSS3, and JavaScript, collaborated with developers to implement interactive UI features, debugged UI/UX issues, and gained practical Git/GitHub and Agile development experience.",
-        image: OneformaImg, 
+        image: OneformaImg,
       },
       {
         id: 3,
@@ -144,7 +147,7 @@ export const userData = {
         location: "Remote",
         year: "Jan 2020 - Present",
         role: "Developed responsive WordPress blogs with modern UI, optimized frontend performance using caching and CDNs, conducted on-page SEO and content optimization to drive organic traffic, and monitored analytics for data-driven UI improvements.",
-        image: BMImg, 
+        image: BMImg,
       },
       {
         id: 4,
@@ -176,7 +179,7 @@ export const userData = {
         description:
           "A modern, responsive Nike-themed landing page built with React and Tailwind CSS, focused on clean UI, smooth sections, and a strong brand-first layout.",
         techStack: ["JavaScript", "React", "Tailwind CSS", "Git", "GitHub"],
-        image: NikeImg, 
+        image: NikeImg,
         github: "https://github.com/munichandra33/Nike-Landing-page",
         website: "https://munichandra33.github.io/Nike-Landing-page/",
       },
@@ -196,7 +199,7 @@ export const userData = {
         description:
           "A clean and responsive learning center website built using HTML, CSS, and Git/GitHub. Designed to showcase tutoring services, subject offerings, and academic programs like CBSE, NIOS, STATE, and ICSE with a simple and user-friendly layout.",
         techStack: ["HTML", "CSS", "Git", "GitHub", "Responsive"],
-        image: NavraImg, 
+        image: NavraImg,
         github: "https://github.com/munichandra33/Navra-Learning-Centre",
         website: "https://munichandra33.github.io/Navra-Learning-Centre/",
       },
@@ -227,6 +230,42 @@ export const userData = {
         github: "https://github.com/munichandra33/Weather-App",
         website: "https://munichandra33.github.io/Weather-App/",
       },
+      {
+        id: 6,
+        name: "BusinessMavericks.org",
+        description:
+          "A content-rich business blog focusing on management, financial markets, personal finance, and strategic business insights. The site includes category-based navigation, static pages like About and Privacy Policy, social media integrations, and an editorial layout designed for long-form professional business articles.",
+        techStack: [
+          "WordPress",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "SEO",
+          "Content Management",
+          "Analytics",
+        ],
+        image: BusinessmavericksImg, // TODO: replace with actual image import
+        github: "", // TODO: add repo link if available
+        website: "https://businessmavericks.org/",
+      },
+      {
+        id: 7,
+        name: "LifeOfAlpha.com",
+        description:
+          "A lifestyle-focused WordPress blog publishing inspirational stories, productivity lessons, book summaries, and personality-based articles. Features a clean reading layout, category-based navigation, shareable content sections, and SEO-optimized posts designed for high organic engagement.",
+        techStack: [
+          "WordPress",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "SEO",
+          "Content Strategy",
+          "Analytics",
+        ],
+        image: LifeofalphaImg, // TODO: replace with actual image import
+        github: "", // TODO: add repo link if available
+        website: "https://lifeofalpha.com/",
+      },
     ],
   },
   contactData: {
@@ -238,4 +277,3 @@ export const userData = {
     github: "Github",
   },
 };
-
