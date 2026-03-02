@@ -176,7 +176,7 @@ const Contact = () => {
         </motion.div>
       )}
       <span className="copyright">
-        <i>&#169; 2024 | All rights reserved. Made by Muni Chandra</i>
+        <i>&#169; 2026 | All rights reserved. Made by Muni Chandra</i>
       </span>
     </div>
   );
